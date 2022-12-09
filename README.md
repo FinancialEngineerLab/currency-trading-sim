@@ -8,6 +8,7 @@ The goal was to build a currency exchange trading simulation as part of the Obje
 * Main simulation starter
 
 ### Structure of the project
+```
 .
 ├── build
 │   └── 20200317.csv
@@ -25,7 +26,7 @@ The goal was to build a currency exchange trading simulation as part of the Obje
     ├── OrderBook.h
     ├── Wallet.cpp
     └── Wallet.h
-
+```
 
 ### Requirements
 To run and compile the project you will need
