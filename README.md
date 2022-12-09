@@ -35,4 +35,4 @@ To run and compile the project you will need
 * Make utility
 
 ### Compile
-To run these examples, we will need a terminal and make utility. Contents are in a file called Makefile, and in that directory, run the command make.The executable file will be placed in the build folder and will read .csv file, which is also there.
+To run the simulation, we will need a terminal and make utility. Contents are in a file called Makefile, and in that directory, run the command make.The executable file will be placed in the build folder and will read .csv file, which is also there.
