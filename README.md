@@ -1,4 +1,4 @@
-### Description
+## Description
 The goal was to build a currency exchange trading simulation as part of the Object Oriented Programming course. Objectives were to write, compile and run a C++ program that the user could interact with in the console.
 
 ## Main bits of the project
